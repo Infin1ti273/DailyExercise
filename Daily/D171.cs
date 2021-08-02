@@ -1,6 +1,4 @@
-using System;
-
-namespace DailyExercise
+namespace DailyExercise.Daily
 {
     // 171. Excel表列序号
     public class D171

@@ -3,7 +3,7 @@
 // 题解：二分查找
 // 对每一行进行一次二分查找 O(m(log n))，求出二元组[index, power]
 // 快速随机选择选出k个最小元素/将二元组初始化堆，再取k个最小元素
-namespace DailyExercise
+namespace DailyExercise.Daily
 {
     public class D1337
     {
