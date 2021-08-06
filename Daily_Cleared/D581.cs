@@ -1,4 +1,4 @@
-namespace DailyExercise.Daily
+namespace DailyExercise.Daily_Cleared
 {
     public class D581
     {

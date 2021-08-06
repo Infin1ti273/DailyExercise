@@ -3,7 +3,7 @@ using System.Linq;
 
 // 743. 网络延迟时间
 // 最短路径问题可以使用D算法
-namespace DailyExercise.Daily
+namespace DailyExercise.Daily_Failed
 {
     
     public class D743

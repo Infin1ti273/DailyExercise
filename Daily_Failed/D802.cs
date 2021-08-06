@@ -1,7 +1,8 @@
 using System.Collections.Generic;
+
 //802.找到最终的安全状态
 //深度优先搜索+三色标记法(0未访问/1递归中/2安全节点)
-namespace DailyExercise.Daily
+namespace DailyExercise.Daily_Failed
 {
     public class D802
     {

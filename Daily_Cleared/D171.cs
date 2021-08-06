@@ -1,4 +1,4 @@
-namespace DailyExercise.Daily
+namespace DailyExercise.Daily_Cleared
 {
     // 171. Excel表列序号
     public class D171
