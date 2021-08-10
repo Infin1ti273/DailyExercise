@@ -1,6 +1,7 @@
 
 namespace DailyExercise.Daily_Cleared
 {
+    // 413.等差数列划分
     public class D413
     {
         public int NumberOfArithmeticSlices(int[] nums)
